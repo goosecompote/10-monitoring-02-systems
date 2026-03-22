@@ -68,5 +68,6 @@ Push: TICK.
 ### 7.Склонируйте себе репозиторий и запустите TICK-стэк, используя технологии docker и docker-compose.    
 ![Задание 7](/pic/pic01.png)  
 ### 8.Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.  
+![Задание 8 и 9](/pic/pic02.png)  
 ### 9.Изучите список telegraf inputs. Добавьте в конфигурацию telegraf следующий плагин - docker:  
 ![Задание 8 и 9](/pic/pic02.png)  
